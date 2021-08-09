@@ -35,11 +35,13 @@ this calculated age, while not accurate was successful in being able to ascertai
 
 ## Data Anomalies
 
-- There appears to be an excessive amount of people entering Birth Year as 1969 leading to a unusual amount of 50 year olds using the Citi Bike system in 2019. This can be attributed to 
-the innuendo implied by the number 69 leading to riders entering an incorrect Birth Year as a joke.
-- The data indicates that the oldest riders that made a trip using Citi Bikes in 2019 was born in 1857, with four trips being made by a rider with this birth year. This would indicate that 
-this person was 162 years old, an impossible age. There are also impossible ages and enteres Birth Years, so it is hard to determine what is the oldest rider on the Citi Bike system. It 
-could be surmised that these incorrect dates may be due to a typing mistake or that the rider wished to remain annonymous.
+- There appears to be an excessive amount of people entering Birth Year as 1969 leading to a unusual amount of 50 year olds using the Citi Bike system in 2019. This can be attributed to the innuendo implied by the number 69 leading to riders entering an incorrect Birth Year as a joke.
+
+![Citi_Bike_Birth_Year](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Birth_Year.png)
+
+- The data indicates that the oldest riders that made a trip using Citi Bikes in 2019 was born in 1857, with four trips being made by a rider with this birth year. This would indicate that this person was 162 years old, an impossible age. There are also impossible ages and enteres Birth Years, so it is hard to determine what is the oldest rider on the Citi Bike system. It could be surmised that these incorrect dates may be due to a typing mistake or that the rider wished to remain annonymous.
+
+![Citi_Bike_Age](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Age.png)
 
 
 ## Other Findings
