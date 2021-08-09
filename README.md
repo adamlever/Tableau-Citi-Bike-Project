@@ -1,4 +1,4 @@
-!https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Logo.png
+![Citi_Bike_Logo](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Logo.png)
 
 # Tableau-Citi-Bike-Project
 
