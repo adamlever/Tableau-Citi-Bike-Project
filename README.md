@@ -2,6 +2,9 @@
 
 # Tableau-Citi-Bike-Project
 
+Link to Citi Bike 2014 and 2019 Tableau Public Project;
+https://public.tableau.com/app/profile/adam.lever/viz/CitiBike20142019Investigation/Dashboard1
+
 ## Investigation Rationale
 
 Data from Citi Bike trips were downloaded for 2014 and 2019 for comaprison. The rationale for this was 2014 was the first full completed year of the Citi Bike project
