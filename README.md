@@ -44,6 +44,8 @@ this calculated age, while not accurate was successful in being able to ascertai
 
 ![Citi_Bike_Age](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Age.png)
 
+![Citi_Bike_Age_Binned](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Age_Binned.png)
+
 
 ## Other Findings
 
@@ -62,3 +64,9 @@ this calculated age, while not accurate was successful in being able to ascertai
 - In 2014 the Citi Bike program was only available to Subscribers, by 2019 a casual customer option had been introduced.
 
 ![Citi_Bike_Trips_by_User](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Trips_by_User.png)
+
+![Citi_Bike_Top_10_Start_Stations](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Top_10_Start_Stations.png)
+![Citi_Bike_Top_10_End_Stations](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Top_10_End_Stations.png)
+
+
+
