@@ -39,6 +39,7 @@ this calculated age, while not accurate was successful in being able to ascertai
 
 ![Citi_Bike_Birth_Year](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Birth_Year.png)
 
+
 - The data indicates that the oldest riders that made a trip using Citi Bikes in 2019 was born in 1857, with four trips being made by a rider with this birth year. This would indicate that this person was 162 years old, an impossible age. There are also impossible ages and enteres Birth Years, so it is hard to determine what is the oldest rider on the Citi Bike system. It could be surmised that these incorrect dates may be due to a typing mistake or that the rider wished to remain annonymous.
 
 ![Citi_Bike_Age](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Age.png)
@@ -46,9 +47,18 @@ this calculated age, while not accurate was successful in being able to ascertai
 
 ## Other Findings
 
-- During the working week (Monday to Friday), the most popular times of usage of the Citi Bike program is between 7am and 10am, and between 3pm and 7pm, it is surmised that a signficant 
-amount of the rides during these times are for the purpose of commuting to work.
-- This week day pattern is not present during the weekend, however there is an increase in usage of the program between 11am and 7pm on both Saturday and Sunday. A reason for this busier
-period is likely to be due to riders using the bikes for leisure time. 
+- During the working week (Monday to Friday), the most popular times of usage of the Citi Bike program is between 7am and 10am, and between 3pm and 7pm, it is surmised that a signficant amount of the rides during these times are for the purpose of commuting to work.
+
+- This week day pattern is not present during the weekend, however there is an increase in usage of the program between 11am and 7pm on both Saturday and Sunday. A reason for this busier period is likely to be due to riders using the bikes for leisure time. 
+
+![Citi_Bike_Time_of_Rides](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Time_of_Rides.png)
+
+
 - Total number of trips in the data analysed increased from 1,903,864 taken in 2014 to 10,524,780 in 2019. An increase of 452.8%.
+
+![Citi_Bike_Number_of_Trips](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Number_of_Trips.png)
+
+
 - In 2014 the Citi Bike program was only available to Subscribers, by 2019 a casual customer option had been introduced.
+
+![Citi_Bike_Trips_by_User](https://github.com/adamlever/Tableau-Citi-Bike-Project/blob/main/Images/Citi_Bike_Trips_by_User.png)
