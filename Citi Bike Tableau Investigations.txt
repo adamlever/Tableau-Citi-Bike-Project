@@ -1,20 +1,18 @@
-# Tableau-Citi-Bike-Project
-
-## Investigation Rationale
+Investigation Rationale
 
 Data from Citi Bike trips were downloaded for 2014 and 2019 for comaprison. The rationale for this was 2014 was the first full completed year of the Citi Bike project
 and with the impact of the Covid pandemic affecting the amount of rides in 2020, it was decided to investigate the data accumalated from 2019 for the purpose of understanding
 the extent of the growth of the program between 2014 and 2019.
 
 
-## Data Extraction
+Data Extraction
 
 - Data for Citi Bike trips in 2014 and 2019 was downloaded in .csv format by month of each year from the Citi Bike Data page (https://s3.amazonaws.com/tripdata/index.html).
 - These files were then read using a 'for loop' within a 'for loop' and 'if' statements in Jupyter Notebook.
 - It was then placed into separate 2014 and 2019 dataframes using Python Code. These were then concatenated together before being exported back into .csv format ready to load into Tableau.
 
 
-## Data Transformation
+Data Transformation
 
 - As the number of rows in our combined downlaoded data from 2014 and 2019 totalled 27,696,033 a heavy filtering process was needed to reduce this data to below the 15,000,000 of rows 
 permitted by Tableau Public. 
@@ -24,14 +22,14 @@ permitted by Tableau Public.
 - Birth Years in the data were given in two formats, one to a significant figure (eg. 1990) and one with a decimal point (eg. 1990.0). Where this occurred these two formats were grouped.
 
 
-## Calculations
+Calculations
 
 - Age was calculated by subtracting 2019 from the Birth Year of the rider. Due to time constraints on the project this age was used for the analysis of both 2014 and 2019 data. 
 It should be noted that there are accuracy issues with this method with the age of the riders being analysed in 2014 being 5 years higher than they were at the time of the ride. However,
 this calculated age, while not accurate was successful in being able to ascertain unexpected phenomena while assessing the chosen data.
 
 
-## Data Anomalies
+Data Anomalies
 
 - There appears to be an excessive amount of people entering Birth Year as 1969 leading to a unusual amount of 50 year olds using the Citi Bike system in 2019. This can be attributed to 
 the innuendo implied by the number 69 leading to riders entering an incorrect Birth Year as a joke.
@@ -40,7 +38,7 @@ this person was 162 years old, an impossible age. There are also impossible ages
 could be surmised that these incorrect dates may be due to a typing mistake or that the rider wished to remain annonymous.
 
 
-## Other Findings
+Other Findings
 
 - During the working week (Monday to Friday), the most popular times of usage of the Citi Bike program is between 7am and 10am, and between 3pm and 7pm, it is surmised that a signficant 
 amount of the rides during these times are for the purpose of commuting to work.
